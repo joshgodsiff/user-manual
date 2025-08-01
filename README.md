@@ -75,7 +75,7 @@ In order of preference:
 - I work much more effectively when I have people to collaborate with. Not just in a "check in / get some guidance" sense, but in a "working on the same problem at the same time" sense.
 - I've generally found small groups (3-4 people) who I'm consistently working with across multiple tasks/projects to be most effective for me.
 - Conversely, I do *not* like working alone for long periods of time. I need people to bounce ideas off, and to pull me up if I get off track.
-- I also need people who I work with closely and consistently enough that I get socially comforable with them, and vice-versa.
+- I also need people that I work with closely and consistently enough that I get socially comforable with them, and vice-versa.
 
 ## Things I love
 - Refactoring, and cleaning up code.
