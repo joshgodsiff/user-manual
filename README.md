@@ -1,4 +1,4 @@
-# On the Care and Feeding of the Unusual Red-Crested Developer <br/> Or: Josh - the User Manual
+# On the Care and Feeding of the Unusual Red-Crested Developer <br/><br/> (Or: Josh - the User Manual)
 
 ## Environments I like to work in
 
