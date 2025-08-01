@@ -33,26 +33,21 @@
 
 In order of preference:
 
-1. Slack (or similar written, async tools).
-    - I like to be able to read messages when I'm at a convenient break in work, and have time to think about my response.
-    - I prefer most messages to be in open channels by default, rather than DMs, so that others can benefit from the conversation.
-
-2. In person - particularly 1:1 or in a small group.
-    - Ideally with a whiteboard and/or a pile of sticky notes.
-    - Comes with the caveat that I work remotely, so opportunities for in person collaboration are limited.
-
-3. Zoom & Miro (or similar).
-    - The next best thing to a whiteboard and sticky notes.
-    - I benefit a lot from having a visual representation of ideas when I'm having a conversation.
-
-4. Email
-    - I don't like email, but I'll use it when necessary.
-
-5. Large group meetings (in person or virtual)
-    - The larger the group, the less likely I am to feel comfortable contributing.
-
-6. Phone
-    - Don't call me unless the servers are on fire, or something equally dire.
+1. **Slack (or similar written, async tools)**
+  - I like to be able to read messages when I'm at a convenient break in work, and have time to think about my response.
+  - I prefer most messages to be in open channels by default, rather than DMs, so that others can benefit from the conversation.
+2. **In person** - particularly 1:1 or in a small group.
+  - Ideally with a whiteboard and/or a pile of sticky notes.
+  - Comes with the caveat that I work remotely, so opportunities for in person collaboration are limited.
+3. **Zoom & Miro (or similar)**.
+  - The next best thing to a whiteboard and sticky notes.
+  - I benefit a lot from having a visual representation of ideas when I'm having a conversation.
+4. **Email**
+  - I don't like email, but I'll use it when necessary.
+5. **Large group meetings (in person or virtual)**
+  - The larger the group, the less likely I am to feel comfortable contributing.
+6. **Phone**
+  - Don't call me unless the servers are on fire, or something equally dire.
 
 ## Preferred ways to receive feedback
 - Regularly, and close to the time that triggered the feedback.
