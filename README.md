@@ -18,6 +18,7 @@
 ### Bad
 - Noisy
 - Hot desking (I need a space that's *mine*).
+- No snacks.
 
 ## How I like to structure my time
 
@@ -69,8 +70,8 @@ In order of preference:
 ## Team dynamics that work well for me
 - I work much more effectively when I have people to collaborate with. Not just in a "check in / get some guidance" sense, but in a "working on the same problem at the same time" sense.
 - I've generally found small groups (3-4 people) who I'm consistently working with across multiple tasks/projects to be most effective for me.
+  - I need people whom I work with closely and consistently enough that I get socially comfortable with them, and vice-versa.
 - Conversely, I do *not* like working alone for long periods of time. I need people to bounce ideas off, and to pull me up if I get off track.
-- I also need people that I work with closely and consistently enough that I get socially comforable with them, and vice-versa.
 
 ## Things I love
 - Refactoring, and cleaning up code.
